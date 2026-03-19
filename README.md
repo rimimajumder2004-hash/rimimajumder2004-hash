@@ -126,7 +126,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rimi_Majumder-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rimi-majumder/)
 [![GitHub](https://img.shields.io/badge/GitHub-rimimajumder2004--hash-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rimimajumder2004-hash)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rimimajumder2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rimimajumder2004@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rimimajumder2004@gmail.com)
 
 </div>
 
